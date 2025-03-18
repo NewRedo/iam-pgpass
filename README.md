@@ -1,2 +1,3 @@
 # iam-pgpass
-A Daemon Socket to dynamically create PGPASS files
+
+A Unix Pipe Server to dynamically create PGPASS files
